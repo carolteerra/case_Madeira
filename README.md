@@ -4,7 +4,7 @@
 
 > Case elaborado para processo seletivo segundo dados de vendas da Madeira Madeira em janeiro de 2020. ETL realizado em banco de dados local com Jupyter Notebook e insights apresentados com PowerBI.
 
-##Requisitos :ballot_box_with_check:
+## Requisitos :ballot_box_with_check:
 
 * Windows 10
 * Jupyter Lab - [Como instalar](https://jupyter.org/install)
@@ -31,10 +31,10 @@ jupyter-lab
 
 4. Selecione 'Restart Kernell and run all cells' :fast_forward:
 
-##Insights
+## Insights
 
-O ppt do relatório pode ser encontrado na pasta /insights. 
-O relátorio pode também ser encontrado [neste link](https://app.powerbi.com/view?r=eyJrIjoiZDZkNWEzM2UtZjlmMC00Mzc1LWI0NzktNWI4MmFjZTU5NzEwIiwidCI6Ijk0YjcxZmI4LWYxNzktNGJkZS1hYzNlLTExNWNkZjM4NmFiNSJ9)
+O ppt do relatório pode ser encontrado nesse diretório na pasta /insights. 
+O relátorio pode também ser encontrado [neste link](https://app.powerbi.com/view?r=eyJrIjoiZDZkNWEzM2UtZjlmMC00Mzc1LWI0NzktNWI4MmFjZTU5NzEwIiwidCI6Ijk0YjcxZmI4LWYxNzktNGJkZS1hYzNlLTExNWNkZjM4NmFiNSJ9).
 
 
 
@@ -44,11 +44,5 @@ O relátorio pode também ser encontrado [neste link](https://app.powerbi.com/vi
 👤 **Caroline Terra Vieira**
 
 * Github: [@carolteerra](https://github.com/carolteerra)
-* LinkedIn: [@Caroline Terra Vieira](https://linkedin.com/in/caroline-terra-vieira)
+* LinkedIn: [Caroline Terra Vieira](https://linkedin.com/in/caroline-terra-vieira)
 
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
